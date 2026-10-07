@@ -5,10 +5,10 @@ El objetivo de esta entrega es automatizar el flujo de trabajo en el entorno de 
 
 ## Vídeo Explicativo
 - **Enlace al vídeo (YouTube):** https://youtu.be/SgEw87TbnJw
-- **Duración aproximada:** 3:27
+- **Duración aproximada:** 4:40
 
 ## Requisitos y Entorno
-- **JDK:** Java 17 o superior
+- **JDK:** Java 17
 - **Gestor de dependencias:** Maven
 - **IDE:** IntelliJ IDEA
 
