@@ -4,7 +4,7 @@
 El objetivo de esta entrega es automatizar el flujo de trabajo en el entorno de desarrollo IntelliJ IDEA, dominar el ciclo de ramas y control de versiones con Git/GitHub, afianzar el uso de atajos de teclado y aplicar la repetición deliberada en un microproyecto Java.
 
 ## Vídeo Explicativo
-- **Enlace al vídeo (YouTube):** https://youtu.be/IrdzUA2hB0k
+- **Enlace al vídeo (YouTube):** https://youtu.be/SgEw87TbnJw
 - **Duración aproximada:** 3:27
 
 ## Requisitos y Entorno
