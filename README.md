@@ -8,7 +8,7 @@ El objetivo de esta entrega es automatizar el flujo de trabajo en el entorno de 
 - **Duración aproximada:** 4:40
 
 ## Requisitos y Entorno
-- **JDK:** Java 17
+- **JDK:** Oracle OpenJDK 27
 - **Gestor de dependencias:** Maven
 - **IDE:** IntelliJ IDEA
 
