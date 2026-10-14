@@ -1,4 +1,4 @@
 package software.ulpgc.katas;
-
-public record Task (String title) {
+import java.time.LocalDate;
+public record Task (String title, LocalDate deadline) {
 }
