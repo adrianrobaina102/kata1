@@ -1,5 +1,5 @@
 package software.ulpgc.katas;
 
-public class Student {
-    private String name;
+public record Student (String name){
+
 }
