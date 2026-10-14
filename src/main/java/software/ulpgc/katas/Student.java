@@ -1,5 +1,5 @@
 package software.ulpgc.katas;
-
-public record Student (String name){
+import java.time.LocalDate;
+public record Student (String name, LocalDate enrollmentDate){
 
 }
