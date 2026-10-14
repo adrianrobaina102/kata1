@@ -1,5 +1,4 @@
 package software.ulpgc.katas;
 
-public class Task {
-    private String title;
+public record Task (String title) {
 }
